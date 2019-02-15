@@ -26,19 +26,16 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-> React is a Ui library. It makes creating dynamic user interfaces simple. By facilitating the creation of reusable components, it allows developers to quickly create robust applications.
 
 - [ ] What does it mean to _think_ in react?
 
-> To think in React means to think of building your app in terms of what components it can be broken down into, how data (state) will be stored and passed between those components, and how they will come together to create a complete application.
 
 - [ ] Describe state.
 
-> State is the heart of a React app. It is the data the application has to work with. 
 
 - [ ] Describe props.
 
-> Props are how state data is passed between React components.
+
 
 ## Project Set Up
 
