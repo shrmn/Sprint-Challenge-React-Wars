@@ -1,0 +1,13 @@
+.character-card {
+    margin: 10px auto;
+    width: 50%;
+    background-color: white;
+}
+
+.character-card h3 {
+    margin-left: 15px;
+}
+
+.character-card p {
+    margin-left: 25px;
+}
